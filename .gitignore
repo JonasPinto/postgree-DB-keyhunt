@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+
+# Ambiente Virtual
+venv/
+.env
+
+# configurações sensíveis e logs
+config/setttings.py 
+*.log
+
+# VSCode settings
+.VSCode/
+
+# Database files
+*.db 
